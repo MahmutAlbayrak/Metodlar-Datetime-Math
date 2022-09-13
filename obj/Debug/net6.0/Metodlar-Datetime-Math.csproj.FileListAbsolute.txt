@@ -1,0 +1,15 @@
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Datetime-Math\bin\Debug\net6.0\Metodlar-Datetime-Math.exe
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Datetime-Math\bin\Debug\net6.0\Metodlar-Datetime-Math.deps.json
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Datetime-Math\bin\Debug\net6.0\Metodlar-Datetime-Math.runtimeconfig.json
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Datetime-Math\bin\Debug\net6.0\Metodlar-Datetime-Math.dll
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Datetime-Math\bin\Debug\net6.0\Metodlar-Datetime-Math.pdb
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Datetime-Math\obj\Debug\net6.0\Metodlar-Datetime-Math.csproj.AssemblyReference.cache
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Datetime-Math\obj\Debug\net6.0\Metodlar-Datetime-Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Datetime-Math\obj\Debug\net6.0\Metodlar-Datetime-Math.AssemblyInfoInputs.cache
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Datetime-Math\obj\Debug\net6.0\Metodlar-Datetime-Math.AssemblyInfo.cs
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Datetime-Math\obj\Debug\net6.0\Metodlar-Datetime-Math.csproj.CoreCompileInputs.cache
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Datetime-Math\obj\Debug\net6.0\Metodlar-Datetime-Math.dll
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Datetime-Math\obj\Debug\net6.0\refint\Metodlar-Datetime-Math.dll
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Datetime-Math\obj\Debug\net6.0\Metodlar-Datetime-Math.pdb
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Datetime-Math\obj\Debug\net6.0\Metodlar-Datetime-Math.genruntimeconfig.cache
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Datetime-Math\obj\Debug\net6.0\ref\Metodlar-Datetime-Math.dll
